@@ -1,0 +1,175 @@
+{
+	"name": "Campaign",
+	"children": [{
+		"name": "Adgroup",
+		"children": [{
+			"name": "Keyword1",
+			"children": [{
+				"name": "SearchTerm1",
+				"size": 1,
+				"MapCount": 1,
+				"group":4
+			},{
+				"name": "SearchTerm2",
+				"size": 1,
+				"MapCount": 1,
+				"group":4
+				
+			}, {
+				"name": "SearchTerm3",
+				"size": 1,
+				"MapCount": 1,
+				"group":4
+			}, {
+				"name": "SearchTerm4",
+				"size": 1,
+				"MapCount": 1,
+				"group":4
+			}, {
+				"name": "SearchTerm5",
+				"size": 1,
+				"MapCount": 1,
+				"group":4
+			}, {
+				"name": "SearchTerm6",
+				"size": 1,
+				"MapCount": 1,
+				"group":4
+			}, {
+				"name": "SearchTerm7",
+				"size": 1,
+				"MapCount": 1,
+				"group":4
+			}, {
+				"name": "SearchTerm8",
+				"size": 1,
+				"MapCount": 1,
+				"group":4
+			}, {
+				"name": "SearchTerm9",
+				"size": 1,
+				"MapCount": 2
+			}, {
+				"name": "SearchTerm10",
+				"size": 1,
+				"MapCount": 1,
+				"group":4
+			}, {
+				"name": "SearchTerm11",
+				"size": 2,
+				"MapCount": 1,
+				"group":4
+			}, {
+				"name": "SearchTerm12",
+				"size": 0,
+				"MapCount": 1,
+				"group":4
+			}, {
+				"name": "SearchTerm13",
+				"size": 34,
+				"MapCount": 1,
+				"group":4
+			}, {
+				"name": "SearchTerm14",
+				"size": 1,
+				"MapCount": 1,
+				"group":4
+			}, {
+				"name": "SearchTerm15",
+				"size": 4,
+				"MapCount": 1,
+				"group":4
+			} ],
+			"group":3
+			
+			} , {
+			"name": "Keyword2",
+			"children": [{
+				"name": "SearchTerm16",
+				"size": 1,
+				"MapCount": 1,
+				"group":4
+			}, {
+				"name": "SearchTerm17",
+				"size": 1,
+				"MapCount": 1,
+				"group":4
+			}, {
+				"name": "SearchTerm18",
+				"size": 11,
+				"MapCount": 1,
+				"group":4
+			}, {
+				"name": "SearchTerm19",
+				"size": 1,
+				"MapCount": 1,
+				"group":4
+			}, {
+				"name": "SearchTerm20",
+				"size": 1,
+				"MapCount": 1,
+				"group":4
+			}],
+			"group":3
+		}, {
+			"name": "Keyword3",
+			"children": [{
+				"name": "SearchTerm21",
+				"size": 2,
+				"MapCount": 1,
+				"group":4
+			}],
+			"group":3
+		}, {
+			"name": "Keyword4",
+			"children": [{
+				"name": "SearchTerm9",
+				"size": 2,
+				"MapCount": 2,
+				"group":4
+			}],
+			"group":3
+		}, {
+			"name": "Keyword5",
+			"children": [{
+				"name": "SearchTerm23",
+				"size": 11,
+				"MapCount": 1,
+				"group":4
+			}],
+			"group":3
+		}, {
+			"name": "Keyword6",
+			"children": [{
+				"name": "SearchTerm24",
+				"size": 18,
+				"MapCount": 1,
+				"group":4
+			}],
+			"group":3
+		}, {
+			"name": "Keyword7",
+			"children": [{
+				"name": "SearchTerm25",
+				"size": 5,
+				"MapCount": 1,
+				"group":4
+			}],
+			"group":3
+		},
+		
+		{
+			"name": "Keyword8",
+			"children": [{
+				"name": "SearchTerm26",
+				"size": 1,
+				"MapCount": 1,
+				"group":4
+			}],
+			"group":3
+		}],
+		"group":2
+	}],
+	"group":1
+
+}
